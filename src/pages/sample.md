@@ -1,0 +1,27 @@
+---
+layout: ../layouts/BaseLayout.astro
+title: Alisa Grifo
+draft: false
+---
+
+# Alisa Grifo / Writing Sample / 8.4.2022
+ 
+KIOSK was founded in 2005 in New York City. We create projects which relate and respond to locations. We use objects, artworks and artifacts as our medium. Past installations have included a number of locations in New York City, including MoMA PS1, a collection of objects at the Hammer Museum and the ICA in London and a series of exhibitions devoted to art and design at the Cité Radieuse in Marseille, France. Searching to show expressions of creativity in numerous forms, we expose works with the singular goal of encouraging people to stop, look and absorb the beauty surrounding them, ranging from the very common to the very rare.
+ 
+When we first opened, downtown Manhattan was changing; the interesting, unique places filled with inspiration were quickly disappearing. We felt an urge to fill the void, to fill a social need. We decided to create a place where people could look, learn, touch, and talk about what we were showing, while also feeling free to wax on about anything in the world.
+ 
+From the start we made a decision to be self-sustaining and KIOSK operated as a store to fund our process. That store continues today online.  Over time our project has grown but the format of our store is very simple: we research, go to a place and search for the things we show; meeting and speaking to people along the way. We present things in an exhibition format and when it suits, sell our finds to fund the next project. We believe everything tells a story and everything we show opens a conversation.
+  
+# Single Product Descriptions:
+
+## Rollfix, measuring tape:
+Living between two worlds, cm on one side, inches on the other. Walk with measurements in the pocket. A wheel and retraction at a touch of a button, no more slow unfolding of the measuring tape. An item which has been copied, this is the original. Produced by a German company established in 1895. I found the red in the drawer of my flat, the yellow at A+F's home, then the yellow again at Gordon Robichaux and lastly the yellow, in my storage. This item was calling me: come out, come out wherever you are.
+ 
+## Petite Duralex Glasses
+I want a glass of wine but I don't want to feel like a lush, just a splash...handy for when it is before noon. Also decent for water and morning juice. Cognac. Coffee. Sharing a small coconut water. You get the gist. Stacks for easy handling. It seems to me that this glass should be all over the United States but for an odd reason Duralex does not distribute it abroad. This may be one of those things that only the French can explain.
+ 
+## Bubble Factory, bubble machine:
+You know that person you met on a beach holiday when you were in second grade who you never stopped thinking about? He was a little different, a little special. He looked like Charlie from your favorite movie at the time, the one you still watch for comfort every now and again. His hair was blonde blonde, almost white. He wore a bikini. He was not like the other boys. Nothing went on, but you had a lot of fun together, and you never stopped thinking about him. Then, many years later, you are checking your childhood photo album - your mother obsessively took images of you as you were the firstborn - and you see him standing with you on the beach. You have a floppy hat on. You are both camera shy, and shy with each other. You realize he looks how your husband must have looked when he was that age. You're stunned. You are so glad what life is and how the big circle has so many little circles inside it that constantly collide. This bubble factory, it's kind of like that. I've never stopped thinking about it, hours of fun in the sun... Runs on hand crank, has circles, makes spheres. I don't remember that little boy's name. He was from Canada, and we were on the Cape. That's all. To use, pour a small amount of bubble liquid, maybe one-half inch of liquid at most, into one of the two indentations on the front of the factory. Make sure the crank is placed into the machine correctly so it does not pop out while turning. You may have to do some trial and error to get the balance right. Have fun.
+ 
+## Delivery Tray:
+One item we knew about before we got to Greece was the oinometra cup. When we landed, we quickly sought out the maker and visited him at what I thought was going to be a factory, but which turned out to be a basement workshop in a residential building, in the middle of a conservative suburb. When we arrived, I was convinced we were in the wrong place, I cursed Google maps. The towel was thrown, and I was already planning our next destination. However, my hunch was way off the mark. Who knew that one crazy man, his brother, and - sometimes - his son could produce the majority of the aluminum goods on the market in Athens, all from their subterranean workshop, while serving us ouzo and homemade capers, too? The delivery tray may make you think of the Indian chaiwallas, and you would be right: the premises of the Indian and the Greek trays are the same: centrifugal force keeps everything in place. Centrifugal force is...well, I can’t explain it to you, I was never great in science. I just know you can swing this thing around like mad, and the bottles won’t tip over, which makes it a perfect carrying tray. Come to think of it, there is a similar one in Germany too, for delivering kölsch glasses. Some forces are universal.

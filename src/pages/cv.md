@@ -1,3 +1,9 @@
+---
+layout: ../layouts/BaseLayout.astro
+title: Alisa Grifo
+draft: false
+---
+
 <two-col>
 
 # Alisa Grifo
