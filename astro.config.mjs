@@ -6,6 +6,6 @@ import turbolinks from "@astrojs/turbolinks";
 export default defineConfig({
   markdown:{
     drafts: true,
-  }
+  },
   integrations: [tailwind(), turbolinks()]
 });
